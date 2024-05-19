@@ -13,4 +13,4 @@ I'm a Product Designer, Content Creator, and Technical Writer. I'm passionate ab
 
 ---
 
-|:wq
+
