@@ -5,7 +5,7 @@ I'm a Product Designer, Content Creator, and Technical Writer. I'm passionate ab
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Design](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Product](https://altschoolafrica.com/schools/product) Class of 2024.
 - 🌱 I’m currently learning Soft skills, Technical Writing, Designing in Figma and User Research.
 - 😊 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💼 Job interests: Product Designer, Technical Writer (Intern or Junior level).
